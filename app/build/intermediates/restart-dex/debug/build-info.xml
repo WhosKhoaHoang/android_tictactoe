@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="21"
+    density="xhdpi"
+    format="7"
+    timestamp="40925142764240"
+    token="-5594937369249077753" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/khoahoang/AndroidStudioProjects/TicTacToe/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="40446342762925" >
+        <artifact
+            location="/Users/khoahoang/AndroidStudioProjects/TicTacToe/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="40925142764240" >
+        <artifact
+            location="/Users/khoahoang/AndroidStudioProjects/TicTacToe/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
